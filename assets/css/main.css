@@ -22,3 +22,15 @@
     background-color: aqua;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+#image-ppal {
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-ppal2 {
+   width: inherit;
+   height: inherit;
+}
